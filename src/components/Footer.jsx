@@ -30,7 +30,7 @@ const Footer = () => {
                         <h4 className="footer__links-title">Legal</h4>
                         <a href="#" className="footer__link">Privacy Policy</a>
                         <a href="#" className="footer__link">Terms of Service</a>
-                        <a href="#" className="footer__link">Contact</a>
+                        <a href="mailto:kartcomparetech@gmail.com" className="footer__link">Contact: kartcomparetech@gmail.com</a>
                     </div>
 
                     <div className="footer__social-section">
